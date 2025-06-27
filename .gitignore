@@ -1,5 +1,6 @@
-# Node
+# Node / Nest
 node_modules/
-.pnpm/
 dist/
 .env
+.pnpm/
+coverage/
