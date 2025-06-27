@@ -1,0 +1,9 @@
+# игнорируем тяжёлые и лишние каталоги
+node_modules/
+.pnpm/
+.git/
+
+# macOS / IDE шум
+.DS_Store
+.idea/
+.vscode/
